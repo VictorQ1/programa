@@ -1,4 +1,4 @@
 # programa
-hola. como estas
+hola como estas
 
-Bien. Gracias!
+Bien Gracias!

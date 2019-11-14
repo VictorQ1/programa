@@ -1,4 +1,5 @@
 # programa
-ELIADS ES JOTO Y SE LA COME!!!
-
-ELIAS ES JOTO!!!
+from tkinter import *
+window = Tk()
+window.title("ENCUADRE 3000 mk.2")
+window.mainloop()

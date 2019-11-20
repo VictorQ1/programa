@@ -1,5 +1,2 @@
-# programa
-from tkinter import *
-window = Tk()
-window.title("ENCUADRE 3000 mk.2")
-window.mainloop()
+# Encuadre MK2 3000
+Programa para el calculo y comparación de calificaciones individuales de acuerdo a una base de datos

@@ -1,3 +1,4 @@
+#Citador APA
 def Libro():
     print('Llena todos los espacios, si no te sabes un espacio pon un punto "."')
     LibroA=input('Autor(es):')
@@ -49,13 +50,13 @@ def Web():
     print(WebA,'.(',WebB,').',WebC,'.',WebD,',de ',WebE,' Sitio web:',WebF)
 
 APA=input('''A) Libro\nB) Revista\nC) Periodico\nD) Enciclopedia\nE) Web\n¿A que formato deseas convertir?: ''')
-if APA==('A'):
+if APA==('A') or ('a'):
     print(Libro())
-if APA==('B'):
+if APA==('B') or ('b'):
     print(Revista())
-if APA==('C'):
+if APA==('C') or ('c'):
     print(Periodico())
-if APA==('D'):
+if APA==('D') or ('d'):
     print(Enciclopedia())
-if APA==('E'):
+if APA==('E') or ('e'):
     print(Web())
